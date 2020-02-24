@@ -1,7 +1,8 @@
-# Markdown Config (Planning)
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.3.70--eap--184-blue)](https://kotlinlang.org)
-[![License](https://img.shields.io/github/license/Nekoyue/mdconf.svg)](https://github.com/Nekoyue/mdconf/blob/master/LICENSE)
+# Markdown Config (Archived)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.3.70--eap--274-blue)](https://kotlinlang.org)
+[![License](https://img.shields.io/github/license/Nekoyue/MarkdownConfig.svg)](https://github.com/Nekoyue/MarkdownConfig/blob/master/LICENSE)
 
+I realized MarkdownConf will just reimplement [YAML](https://en.wikipedia.org/wiki/YAML). Repository is archived now for reference.
 
 ## Overview 
 Markdown Config is a [Markdown](https://guides.github.com/features/mastering-markdown/) language parser for configuration files base on [Kotlin](https://kotlinlang.org)!
